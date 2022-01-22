@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KenderMan
+- 👋 Hi, I’m @KenderWebos
 - 👀 I’m interested in unity and web development
 - 🌱 I’m currently learning databases
 - 💞️ I’m looking to collaborate on a game development team
