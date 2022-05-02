@@ -2,7 +2,7 @@
 - 👀 I’m interested in unity and web development
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on a game development team
-- 📫 How to reach me, you can send an email kenderman.8@gmail.com
+- 📫 How to reach me, you can send an email kevinxkender@gmail.com
 
 <!---
 KenderMan/KenderMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
