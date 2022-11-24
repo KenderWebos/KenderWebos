@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kevin
+### Hi there 🤙, my name is Kevin
 #### I am a computer science student
 ![I am a computer science student](https://static.vecteezy.com/system/resources/previews/002/776/724/non_2x/banner-city-landscape-of-silhouettes-vector.jpg)
 
