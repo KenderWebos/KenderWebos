@@ -4,12 +4,15 @@
 
 I made this project to have a good presentation in GitHub, it allows you to see a simplified presentation about me.
 
-Skills: HTML / CSS / JS / UNITY / PYTHON
+#### Skills:
+![unity_img](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![unity_img](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![unity_img](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![unity_img](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![unity_img](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 - 🔭 I’m currently working on web dev 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KenderWebos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kevin_x_kender/)  
+- 📖 I’m currently working on web dev
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenderWebos&show_icons=true)  
 
