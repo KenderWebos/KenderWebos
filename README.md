@@ -1,8 +1,7 @@
 ### Hi there 🤙, my name is Kevin
 #### I am a computer science student
-![I am a computer science student](https://static.vecteezy.com/system/resources/previews/002/776/724/non_2x/banner-city-landscape-of-silhouettes-vector.jpg)
 
-I made this project to have a good presentation in GitHub, it allows you to see a simplified presentation about me.
+and i made this project to have a good presentation in GitHub, it allows you to see a simplified presentation about me.
 
 #### Skills:
 ![unity_img](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,11 +11,8 @@ I made this project to have a good presentation in GitHub, it allows you to see 
 ![unity_img](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 - 🔭 I’m currently working on web dev 
-- 📖 I’m currently working on web dev
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenderWebos&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KenderWebos)
 
 <!---
 KenderMan/KenderMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
