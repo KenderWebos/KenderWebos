@@ -12,9 +12,9 @@ and i made this project to have a good presentation in GitHub, it allows you to 
 
 - 🔭 I’m currently working on web dev 
 
+<!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenderWebos&show_icons=true)  
 
-<!---
 KenderMan/KenderMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
