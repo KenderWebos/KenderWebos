@@ -1,7 +1,7 @@
 # Kevin Patricio Campos Venegas
 **Ingeniero Civil Informático**  
-RUN: 20.014.745-6 | Concepción, Chile  
-📞 +56 9 5037 6005 | 🌐 [kevincampos.cl](http://kevincampos.cl) | ✉️ [kcamposing@gmail.com](mailto:kcamposing@gmail.com) | 💼 [LinkedIn](#) | 🖥️ [GitHub](#)  
+Concepción, Chile  
+🌐 [kevincampos.cl](http://kevincampos.cl) | ✉️ [kcamposing@gmail.com](mailto:kcamposing@gmail.com) | 💼 [LinkedIn](#) | 🖥️ [GitHub](#)  
 
 ## Perfil Profesional
 Ingeniero Civil Informático con sólida formación en desarrollo de software y experiencia en proyectos colaborativos. Me especializo en tecnologías como Java con SpringBoot, Laravel Fullstack, Unity y metodologías ágiles como SCRUM. Soy proactivo, con capacidad de adaptación, habilidades en trabajo multidisciplinario y una alta disposición para adquirir y aplicar nuevos conocimientos. Mi enfoque está en la innovación tecnológica y la creación de soluciones eficientes.  
